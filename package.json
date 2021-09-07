@@ -1,0 +1,23 @@
+{
+  "name": "sqlite-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizchaerul/sqlite-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizchaerul/sqlite-generator/issues"
+  },
+  "homepage": "https://github.com/rizchaerul/sqlite-generator#readme",
+  "dependencies": {
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
